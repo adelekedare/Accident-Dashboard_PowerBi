@@ -1,7 +1,12 @@
 # Accident-Dashboard
 Dashboard Link:https://mavenanalytics.io/project/7790
- Accidents in the UK
+
+Accidents in the UK
+
+
 About this project
+
+
 Project Objective:
 
 The objective of this project is to develop a comprehensive road accident dashboard encompassing data from the years 2021 and 2022. The dashboard should provide valuable insights into the following key aspects:
