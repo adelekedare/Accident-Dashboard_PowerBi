@@ -1,34 +1,37 @@
-# Accident-Dashboard
-Dashboard Link:https://mavenanalytics.io/project/7790
+# Analysis Of Road Accidents In The United Kingdom
 
-Accidents in the UK
-
-
-About this project
+## Dashboard Link:https://mavenanalytics.io/project/7790
 
 
-Project Objective:
-
-The objective of this project is to develop a comprehensive road accident dashboard encompassing data from the years 2021 and 2022. The dashboard should provide valuable insights into the following key aspects:
-
-Total casualties resulting from accidents during the specified period.
-A breakdown of total casualties, including the percentage of casualties concerning accident severity and identification of the vehicle types associated with the highest casualties.
-Analysis of total casualties based on the types of vehicles involved.
-Monthly trend analysis, comparing casualties for the current and previous years.
-Identification of road types with the highest number of casualties.
-Distribution analysis of total casualties based on road surface conditions.
-Investigation of the relationship between casualties and factors such as area/location and time of day (day/night).
-Approach:
-
-To achieve these objectives, our team performed an exhaustive descriptive analysis of the given dataset. We utilized Microsoft Excel and Power BI tools to carry out data cleaning, transformation, and ultimately create the informative dashboard.
+### About This Project
 
 The dataset contains relevant information regarding road accidents in the United Kingdom. The variables examined include accident date, number and severity of casualties, local authority district, road conditions, road type, vehicle types, and other pertinent details.
 
-Dataset Overview:
+### Project Objective:
+
+The objective of this project is to develop a comprehensive road accident dashboard encompassing data from the years 2021 and 2022. The dashboard should provide valuable insights into the following key aspects:
+
+-  Total casualties resulting from accidents during the specified period.
+-  A breakdown of total casualties, including the percentage of casualties concerning accident severity and identification of the vehicle types associated        with   the highest casualties.
+-  Analysis of total casualties based on the types of vehicles involved.
+-  Monthly trend analysis, comparing casualties for the current and previous years.
+-  Identification of road types with the highest number of casualties.
+-  Distribution analysis of total casualties based on road surface conditions.
+-  Investigation of the relationship between casualties and factors such as area/location and time of day (day/night).
+
+### Approach & Tools:
+
+-  Microsoft Excel -Data Cleaning & Transformation
+-  PowerBI -Data Visualiation & Modelling
+
+To achieve these objectives, our team performed an exhaustive descriptive analysis of the given dataset. We utilized Microsoft Excel and Power BI tools to carry out data cleaning, transformation, and ultimately create the informative dashboard.
+
+
+### Dataset Overview:
 
 The dataset encompasses a total of 300,492 accidents that occurred between January 1, 2021, and December 31, 2022, resulting in 408,504 casualties. The accidents exhibit varying levels of severity, with "Slight" and "Serious" being the most prevalent categories, accounting for 343,070 and 58,431 casualties, respectively.
 
-Insights from Descriptive Analysis:
+### Insights from Descriptive Analysis:
 
 Junction Control:
 
@@ -36,7 +39,7 @@ The majority of accidents transpired on "uncontrolled" roads, with comparatively
 
 Accident Severity:
 
-A significant portion of the casualties were classified as "Slight," constituting approximately 83.98% of the total, while a substantial number were categorized as "Serious."
+A significant portion of the casualties were classified as "Slight," constituting approximately 83.98% , while a substantial number were categorized as "Serious" taking about 14.30% of the total Acciident severity."
 
 Road Surface Conditions:
 
@@ -62,7 +65,7 @@ Time of Day:
 
 Accidents were spread throughout the day, with a higher occurrence during the afternoon and evening rush hours, indicating increased traffic volume during these periods.
 
-Recommendations for Stakeholders:
+### Recommendations for Stakeholders:
 
 Road Safety Campaigns:
 
@@ -84,6 +87,7 @@ Accident Investigation:
 
 Further investigation into the circumstances of serious accidents can provide crucial insights into their root causes and help formulate targeted safety measures.
 
-Conclusion:
+### Conclusion:
 
-While these recommendations are based on the provided dataset, stakeholders should recognize that developing specific and actionable strategies requires a more extensive analysis of historical accident data, traffic patterns, and other relevant factors. Collaboration between local authorities, law enforcement agencies, and road safety experts is essential to implement effective measures that can significantly reduce road accidents and improve overall road safety.
+While these recommendations are based on the provided dataset, stakeholders should recognize that developing specific and actionable strategies requires a more extensive analysis of historical accident data, traffic patterns, and other relevant factors.
+Collaboration between local authorities, law enforcement agencies, and road safety experts is essential to implement effective measures that can significantly reduce road accidents and improve overall road safety.
